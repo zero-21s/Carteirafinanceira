@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+}
+
+form {
+    width: 300px;
+}
+
+input {
+    border: none;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.outline {
+    background-color: transparent;
+    color: white;
+    border: 1px solid black;
+}
